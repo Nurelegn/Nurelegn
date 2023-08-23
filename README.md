@@ -1,4 +1,4 @@
-<!-- 
+<!--
 <div align="center">
 <img src="https://media.giphy.com/media/cJuJI2ttlpJ1jkiPFz/giphy.gif" width="500px">
 </div>
@@ -6,7 +6,7 @@
 
 <div align="center"> <h1 align="center"> Hi There! This is Nurelegn 👋 </h1> </div>
 
-<h3 align="center">💬 A self-motivated tech enthusiast and Engineer from Germany  💬</h3>
+<h3 align="center">💬 A self-motivated tech enthusiast and Engineer from Germany 💬</h3>
 
 <div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
 
@@ -24,7 +24,7 @@
   <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
 </a>
 <a href="https://github.com/Nurelegn">
-  <img align="center" src="https://komarev.com/ghpvc/?username=Nurelegn" alt="Nurelegn"  width="16%"/>
+  <img align="center" src="https://komarev.com/ghpvc/?username=Nurelegn" alt="Nurelegn" width="16%"/>
 </a>
 </p>
 
@@ -36,6 +36,8 @@
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
 </p>
+
+<!-- Rest of your code... -->
 
 <div align="center"> <h1 align="center"> :books: LIBRARIES </h1> </div>
 
