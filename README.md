@@ -1,5 +1,5 @@
-### Hi there 👋
-
+[### Hi there 👋
+](https://lms.clarusway.com/pluginfile.php/54059/course/section/5661/cw-de-ds-path-image.png)
 <!--
 **Nurelegn/Nurelegn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
