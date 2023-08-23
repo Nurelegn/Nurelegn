@@ -23,8 +23,8 @@
 <a href="https://www.hackerrank.com/...">
   <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
 </a>
-<a href="https://github.com/emir1031">
-  <img align="center" src="https://komarev.com/ghpvc/?username=emir1031" alt="Emir"  width="16%"/>
+<a href="https://github.com/Nurelegn">
+  <img align="center" src="https://komarev.com/ghpvc/?username=Nurelegn" alt="Nurelegn"  width="16%"/>
 </a>
 </p>
 
@@ -70,25 +70,11 @@
 <div align="center"> <h1 align="center"> :chart_with_upwards_trend: STATISTICS </h1> </div>
 
 </p align="center">
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emir1031&theme=algolia&layout=compact" alt="languages" width="50%" >
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurelegn&theme=algolia&layout=compact" alt="languages" width="50%" >
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=emir1031&count_private=true&theme=algolia&show_icons=true&hide_border=true" alt="my github stats" width="48%"/>&nbsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emir1031&theme=algolia" alt="my commit status" width="48.2%"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nurelegn&count_private=true&theme=algolia&show_icons=true&hide_border=true" alt="my github stats" width="48%"/>&nbsp;
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nurelegn&theme=algolia" alt="my commit status" width="48.2%"/>
 </p>
 
 
-<!--
-**Nurelegn/Nurelegn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
