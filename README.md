@@ -67,14 +67,17 @@
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="50"/> </a>
 </p>
 
-<div align="center"> <h1 align="center"> :chart_with_upwards_trend: STATISTICS </h1> </div>
+<div align="center">
+  <h1>:chart_with_upwards_trend: STATISTICS</h1>
+</div>
 
-</p align="center">
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurelegn&theme=algolia&layout=compact" alt="languages" width="50%" >
-</p>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nurelegn&count_private=true&theme=algolia&show_icons=true&hide_border=true" alt="my github stats" width="48%"/>&nbsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nurelegn&theme=algolia" alt="my commit status" width="48.2%"/>
-</p>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurelegn&theme=algolia&layout=compact" alt="languages" width="50%">
+</div>
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nurelegn&count_private=true&theme=algolia&show_icons=true&hide_border=true" alt="my github stats" width="48%">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nurelegn&theme=algolia" alt="my commit status" width="48.2%">
+</div>
 
 
